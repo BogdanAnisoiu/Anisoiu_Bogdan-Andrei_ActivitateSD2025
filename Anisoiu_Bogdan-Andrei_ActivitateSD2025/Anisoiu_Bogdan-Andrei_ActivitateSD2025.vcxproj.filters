@@ -18,5 +18,35 @@
     <ClCompile Include="test1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="seminar01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar04.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar05.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar06.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar08.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar09.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="semianr11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
